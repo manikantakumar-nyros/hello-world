@@ -1,3 +1,3 @@
 # hello-world
 git introduction
-manikanta trainee
+manikanta train
